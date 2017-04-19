@@ -1,0 +1,19 @@
+{
+  "recipe" : {
+    "Ham and Cheese Rolls" : {
+      "Ingredients" : [ null, "Tomtato Sauce", "One Slice of Ham", "Cream Cheese", "Lettuce Leaf" ],
+      "Steps" : "Roll it Up!",
+      "Time" : "5 Minutes"
+    },
+    "Sticky Lemon Chicken" : {
+      "Ingredients" : [ null, "4 Chicken Breasts", "Zest and Juice of 1 Lemon", "1 Table Spoon of Clear Honey", "2 Crushed Cloves of Garlic", "1 Teaspoon Oregano" ],
+      "Steps" : [ null, "Preheat oven to 190 degrees celsius. Place chicken breasts in a roasting tin.", "Mix together the other ingredients and heat in the microwave for 1 minute until hot. Stir well and pour over the chicken.", "Roast in the oven for 30 minutes, basting often. Leave to stand for 5 minutes before serving." ],
+      "Time" : "30 Minutes"
+    },
+    "Thai Green Curry" : {
+      "Ingredients" : [ null, "400g rice", "thai green curry paste (1 jar)", "2 skinless chicken breasts (cut into chunks)", " 2 green peppers (strips)", "half a white/brown onion (finely choped)", "1 can of coconut milk", "any kind of cooking oil" ],
+      "Steps" : [ null, "Place oil in a pan and heat it", "When the oil is hot place your chicken in the pan", "After 3 minutes of frying the chicken add the thai green curry paste to the chicken and make sure the chicken is well coated in the paste", "After this add the coconut milk and green peppers to the pan and turn the heat down low to simmer", "Now put the rice into boiling salted water and cook it for 10/15 minutes", "When the rice is cooked everything will be ready to plate up!!" ],
+      "Time" : "40 Minutes"
+    }
+  }
+}
